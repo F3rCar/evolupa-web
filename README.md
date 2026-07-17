@@ -38,6 +38,9 @@ http://localhost:5000
 
 ## Convenções
 
+- Utilizar camelCase para variáveis e funções.
+- Utilizar ESLint e Prettier.
+- Criar uma branch para cada funcionalidade.
 - Manter a organização das pastas.
 - Evitar repetição de código.
 - Toda requisição deve passar pela pasta `js/api`.
